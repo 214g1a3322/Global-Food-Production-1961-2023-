@@ -1,4 +1,4 @@
-Data Analysis using Power-BI On Global Food Production 1961-2023
+*Data Analysis using Power-BI On Global Food Production 1961-2023*
 
 The analysis of global food production between 1961 and 2023 highlights the large-scale cultivation of key food crops across different regions. Rice and wheat dominate global production, with a total of 269 billion tonnes of rice and 282 billion tonnes of wheat produced during the period. Tea production, though smaller in comparison, stands at 2 billion tonnes, which reflects its importance as a global beverage crop.
 When looking at coffee production, Africa and Latin America lead the way, followed by countries such as Vietnam, Indonesia, and Brazil. These nations are known as major coffee exporters, supporting global demand. Similarly, the production of fruits such as apples, avocados, bananas, and oranges varies significantly by country, with Central Asia, Latin America, and parts of Europe contributing notable shares.
